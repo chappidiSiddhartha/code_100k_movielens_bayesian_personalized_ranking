@@ -1,7 +1,7 @@
 
 Bayesian Personalized Ranking (BPR) Model for Implicit Feedback
 
-Framework
+Framework-
 The implementation of the BPR model is provided by Cornac, a comprehensive framework for recommender systems that emphasizes models leveraging auxiliary data (e.g., item descriptions, images, and social networks). BPR is included in the model collections of Cornac.
 
 For detailed documentation of the BPR model within Cornac, please refer to Cornac Documentation. The source code for the BPR implementation is available on the Cornac GitHub repository.
